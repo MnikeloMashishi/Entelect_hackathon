@@ -8,3 +8,6 @@ Your IT department was carefully selected to create a program that feeds the ani
 Fully automated, efficient, and convenient. This would allow the zookeepers to focus on more important tasks within the zoo.
 
 --- Code that optimizes the best path to feed animals using a drone feeder ---
+
+ENETELECT CHALLANGE - UNIVERSITY CUP
+12 APRIL 2025
